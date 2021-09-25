@@ -1,4 +1,5 @@
 <?php 
 echo "App desde Openshift!";
-echo "Nueva linea agregada";
+echo "<br>Nueva linea agregada";
+echo "<br>Nueva linea agregada 2";
 ?>
